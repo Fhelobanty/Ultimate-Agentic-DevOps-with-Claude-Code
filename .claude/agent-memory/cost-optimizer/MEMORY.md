@@ -1,0 +1,1 @@
+- [Design Constraints](design_constraints.md) — CSS rules, breakpoints, and no-JS policy

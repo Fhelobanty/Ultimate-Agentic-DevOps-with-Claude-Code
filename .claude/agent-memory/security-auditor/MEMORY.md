@@ -1,0 +1,2 @@
+- [Static site infra baseline](project_static_site_infra.md) — S3+CloudFront+OAC setup, no IAM/OIDC yet, backend.tf bootstrap is intentional
+- [Missing repo .gitignore](project_repo_gitignore_gap.md) — no .gitignore at root; risk of committing .terraform/ and tfstate; recheck every audit
